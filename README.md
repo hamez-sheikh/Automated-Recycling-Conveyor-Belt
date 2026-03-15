@@ -14,7 +14,9 @@ This project is an Arduino-based automated recycling conveyor belt designed to d
 
 Click the image below to watch the conveyor belt system sorting objects.
 
-[Watch the Conveyor Belt Demo](Automatic conveyor belt.mp4)
+## Demo Video
+
+[Watch the Conveyor Belt Demo](Automatic%20conveyor%20belt.mp4)
 
 ---
 
